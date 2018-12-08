@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\儒墨工作\AnyWise.Web.CheckProcess\AnyWise.Web.CheckProcess\bin\Debug\AnyWise.Web.CheckProcess.exe.config
+C:\Users\DELL\Desktop\儒墨工作\AnyWise.Web.CheckProcess\AnyWise.Web.CheckProcess\bin\Debug\AnyWise.Web.CheckProcess.exe
+C:\Users\DELL\Desktop\儒墨工作\AnyWise.Web.CheckProcess\AnyWise.Web.CheckProcess\bin\Debug\AnyWise.Web.CheckProcess.pdb
+C:\Users\DELL\Desktop\儒墨工作\AnyWise.Web.CheckProcess\AnyWise.Web.CheckProcess\obj\Debug\AnyWise.Web.CheckProcess.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\儒墨工作\AnyWise.Web.CheckProcess\AnyWise.Web.CheckProcess\obj\Debug\AnyWise.Web.CheckProcess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\儒墨工作\AnyWise.Web.CheckProcess\AnyWise.Web.CheckProcess\obj\Debug\AnyWise.Web.CheckProcess.exe
+C:\Users\DELL\Desktop\儒墨工作\AnyWise.Web.CheckProcess\AnyWise.Web.CheckProcess\obj\Debug\AnyWise.Web.CheckProcess.pdb
